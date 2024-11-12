@@ -1,3 +1,27 @@
+2024.11.12-0
+============
+
+Releases: libmamba 2.0.4alpha1, libmambapy 2.0.4alpha1, micromamba 2.0.4alpha1
+
+Bug fixes:
+
+- [all] fixed incorrect syntax in static_build.yml by @Klaim in https://github.com/mamba-org/mamba/pull/3592
+- [micromamba] fix: Correct `mamba env export --json --from-history` by @mathbunnyru in https://github.com/mamba-org/mamba/pull/3590
+
+2024.11.12
+==========
+
+Releases: libmamba 2.0.4alpha0, libmambapy 2.0.4alpha0, micromamba 2.0.4alpha0
+
+Enhancements:
+
+- [libmamba] Fix: json parsing error due to wrong encoding of Python output by @Klaim in https://github.com/mamba-org/mamba/pull/3584
+- [libmamba] Adds logs clarifying the source of the error "could not load prefix data by @Klaim in https://github.com/mamba-org/mamba/pull/3581
+
+Bug fixes:
+
+- [libmamba] fix: Skip misformatted configuration files by @ChaonengQuan in https://github.com/mamba-org/mamba/pull/3580
+
 2024.11.05
 ==========
 

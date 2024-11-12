@@ -1,3 +1,14 @@
+libmambapy 2.0.4alpha1 (November 12, 2024)
+==========================================
+
+Bug fixes:
+
+- fixed incorrect syntax in static_build.yml by @Klaim in https://github.com/mamba-org/mamba/pull/3592
+
+libmambapy 2.0.4alpha0 (November 12, 2024)
+==========================================
+
+
 libmambapy 2.0.3 (November 05, 2024)
 ====================================
 
